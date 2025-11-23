@@ -40,8 +40,13 @@ PC with LT Spice Software
 16.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 ## Output:
-<img width="1364" height="431" alt="image" src="https://github.com/user-attachments/assets/36e579fd-01af-4ad0-95ba-9cd0879aa263" />
+## INPUT WAVEFORM
+<img width="963" height="455" alt="image" src="https://github.com/user-attachments/assets/84df38f4-b78d-481b-916e-2ae1327d52af" />
+
+## OUTPUT WAVEFORM
+<img width="957" height="451" alt="image" src="https://github.com/user-attachments/assets/8a2e9c4e-3faa-4086-bca3-07bdc74ab36c" />
 
 
 ## Result:
-Thus the differentiator circuit was simulated and output verified.
+![WhatsApp Image 2025-11-23 at 17 04 09_28907751](https://github.com/user-attachments/assets/2d031841-00c0-47bd-8ccb-cbf8a876b0fe)
+
